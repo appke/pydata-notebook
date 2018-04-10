@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+# 删除.DS_Store文件
+.DS_Store
+*/.DS_Store
+
 __pycache__/
 *.py[cod]
 *$py.class
