@@ -3,6 +3,10 @@
 .DS_Store
 */.DS_Store
 
+# 先不要添加数据，以后拖到ch0x中
+examples/
+datasets/
+
 __pycache__/
 *.py[cod]
 *$py.class

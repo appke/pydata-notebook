@@ -1,6 +1,14 @@
 # python_data_analysis
 利用python3进行数据分析
 - 在Linux系统下安装了git
+- 将数据导入git，以后逐渐放到各个文件夹中！
+  - 一切为了实战，按需加载！
+
+
+
+<br>
+
+
 
 #### 参考资料
 
