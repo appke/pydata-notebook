@@ -1,21 +1,10 @@
 # python_data_analysis
+> 一切为了实战，按需加载！
+
 利用python3进行数据分析
-- 将数据导入git，以后逐渐放到各个文件夹中！
-  - 一切为了实战，按需加载！
 
-
-
-<br>
-
-
-
-#### 参考资料
-
-- [LearnXu/pydata-notebook](https://github.com/LearnXu/pydata-notebook)
-  - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [BrambleXu/pydata-notebook](https://github.com/BrambleXu/pydata-notebook)
-  - 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）中文翻译笔记
 - 作者Wes McKinney 英文版github仓库：[pydata-book](https://github.com/wesm/pydata-book)
+- 将数据导入git，以后逐渐放到各个文件夹中！
 
 
 
@@ -31,9 +20,7 @@
   - [1.6 Navigating This Book（本书导航）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-01/1.6%20Navigating%20This%20Book%EF%BC%88%E6%9C%AC%E4%B9%A6%E5%AF%BC%E8%88%AA%EF%BC%89.ipynb)
 
 - [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks (Python语言基础，Ipython和Jupyter Notebooks)](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/tree/master/Chapter-02/)
-
   - [chp02-Introduction(2013)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/chp02-Introduction%282013%29.ipynb) 
-
   - [2.1 The Python Interpreter（python解释器）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-02/2.1%20The%20Python%20Interpreter%EF%BC%88python%E8%A7%A3%E9%87%8A%E5%99%A8%EF%BC%89.ipynb)
   - [2.2 IPython Basics (IPython基础)](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-02/2.2%20IPython%E5%9F%BA%E7%A1%80.ipynb)
   - [2.3 Python语言基础)](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-02/2.3%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.ipynb)
@@ -42,7 +29,7 @@
   - [3.1 Data Structures and Sequences (数据结构与序列)](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-03/3.1%20Data%20Structures%20and%20Sequences%20%28%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E5%BA%8F%E5%88%97%29.ipynb)
   - [3.2 Functions (函数)](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-03/3.2%20Functions%20%28%E5%87%BD%E6%95%B0%29.ipynb)
   - [3.3 Files and the Operating System (文件以及操作系统)](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-03/3.3%20Files%20and%20the%20Operating%20System%20%28%E6%96%87%E4%BB%B6%E4%BB%A5%E5%8F%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%29.ipynb)
-  - [Chapter 4: NumPy Basics: Arrays and Vectorized Computation（NumPy基础：数组和向量化计算）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/tree/master/Chapter-04/)
+- [Chapter 4: NumPy Basics: Arrays and Vectorized Computation（NumPy基础：数组和向量化计算）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/tree/master/Chapter-04/)
   - [4.1 The NumPy ndarray: A Multidimensional Array Object（ndarray: 多维数组对象)](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-04/4.1%20The%20NumPy%20ndarray%EF%BC%88%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%EF%BC%89.ipynb)
   - [4.2 Universal Functions: Fast Element-Wise Array Functions（通用函数：快速点对点数组函数）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-04/4.2%20Universal%20Functions%20%28%E9%80%9A%E7%94%A8%E5%87%BD%E6%95%B0%29.ipynb)
   - [4.3 Array-Oriented Programming with Arrays（数组导向编程）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-04/4.3%20Array-Oriented%20Programming%20with%20Arrays%EF%BC%88%E6%95%B0%E7%BB%84%E5%AF%BC%E5%90%91%E7%BC%96%E7%A8%8B%EF%BC%89.ipynb)
