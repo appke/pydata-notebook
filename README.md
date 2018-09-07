@@ -1,12 +1,9 @@
-# python_data_analysis
+# 利用Python进行数据分析（第2版）
 > 一切为了实战，按需加载！
-
-利用python3进行数据分析
-
 - 作者Wes McKinney 英文版github仓库：[pydata-book](https://github.com/wesm/pydata-book)
 - 将数据导入git，以后逐渐放到各个文件夹中！
 
-
+![](book_surface.png)
 
 # Jupyter Notebooks:
 
