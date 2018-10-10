@@ -1,9 +1,27 @@
-# 利用Python进行数据分析（第2版）
+# 🦔利用Python进行数据分析（第2版）
 > 一切为了实战，按需加载！
 - 作者Wes McKinney 英文版github仓库：[pydata-book](https://github.com/wesm/pydata-book)
 - 将数据导入git，以后逐渐放到各个文件夹中！
 
-![](book_surface.png)
+---
+
+### 数据分析结构目录
+
+- NumPy基础
+  - numpy入门
+  - 普通运算
+  - 统计
+  - 线性代数
+- Pandas入门
+  - 01-pandas入门
+- 读取数据
+
+<p align='left'>
+<img src='book_surface.png'>
+</p>
+
+
+
 
 # Jupyter Notebooks:
 
@@ -111,6 +129,8 @@
   - [B.3 Software Development Tools（软件开发工具）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Appendix-B/B.3%20Software%20Development%20Tools%EF%BC%88%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%EF%BC%89.ipynb)
   - [B.4 Tips for Productive Code Development Using IPython（使用IPython进行有效开发的建议）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Appendix-B/B.4%20Tips%20for%20Productive%20Code%20Development%20Using%20IPython%EF%BC%88%E4%BD%BF%E7%94%A8IPython%E8%BF%9B%E8%A1%8C%E6%9C%89%E6%95%88%E5%BC%80%E5%8F%91%E7%9A%84%E5%BB%BA%E8%AE%AE%EF%BC%89.ipynb)
   - [B.5 Advanced IPython Features（高级IPython特性）](http://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Appendix-B/B.5%20Advanced%20IPython%20Features%EF%BC%88%E9%AB%98%E7%BA%A7IPython%E7%89%B9%E6%80%A7%EF%BC%89.ipynb)
+
+
 
 ## License
 
