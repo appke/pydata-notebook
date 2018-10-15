@@ -8,17 +8,20 @@
 ### 数据分析结构目录
 
 - NumPy基础
-  - numpy入门
-  - 普通运算
-  - 统计
-  - 线性代数
+  - 01-numpy入门
+  - 02-numpy运算
+  - 03-numpy统计
+  - 04-numpy线性代数
+  - ch02-Python语言基础
+  - ch03-内建数据结构
 - Pandas入门
   - 01-pandas入门
 - 读取数据
 
 <p align='left'>
-<img src='book_surface.png'>
+<img src='ch01-NumPy基础/images/book_surface.png'>
 </p>
+
 
 
 
