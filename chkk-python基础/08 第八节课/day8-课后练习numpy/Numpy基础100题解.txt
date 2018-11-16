@@ -1,0 +1,8 @@
+100道numpy练习——初学与入门篇
+https://blog.csdn.net/u012162613/article/details/42784403
+
+100道numpy练习——Apprentice篇
+https://blog.csdn.net/u012162613/article/details/42811297
+
+100道numpy练习——进阶篇
+https://blog.csdn.net/u012162613/article/details/42847011
