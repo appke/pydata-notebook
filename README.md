@@ -7,16 +7,20 @@
 
 ### 🐟数据分析结构目录
 
-- NumPy基础
-  - 01-numpy入门
-  - 02-numpy运算
-  - 03-numpy统计
-  - 04-numpy线性代数
-  - ch02-Python语言基础
-  - ch03-内建数据结构
-- Pandas入门
-  - 01-pandas入门
-- 读取数据
+机器学习和Python实战| 笔记博客 | 案例代码 
+:--|:--|:--
+**Python基础** | [JupyterLab总结](https://www.jianshu.com/p/5d5d0ef8f949) |
+**NumPy基础** |  |
+**Pandas使用** | |
+**matplotlib可视化** | |
+**读取数据** | |
+**CheatSheet** | [Pandas CheatSheet](https://www.jianshu.com/p/ad3061ad78cc) |[Pandas CheatSheet](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk01-Pandas%20CheatSheet.ipynb)
+
+
+
+
+
+<br><br><br>
 
 <p align='left'>
 <img src='ch01-NumPy基础/image/book_surface.png'>
