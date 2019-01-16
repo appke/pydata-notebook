@@ -20,7 +20,6 @@
 
 <br><br><br>
 
-
 <p align='left'>
-<img src='ch01-NumPy基础/image/book_surface.png'>
+<img src='ch02-NumPy基础/images/book_surface.png'>
 </p>
