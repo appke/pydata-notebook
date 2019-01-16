@@ -18,15 +18,9 @@
 
 
 
-
-
 <br><br><br>
+
 
 <p align='left'>
 <img src='ch01-NumPy基础/image/book_surface.png'>
 </p>
-## License
-
- The code in this repository, including all code samples in the notebooks listed
-above, is released under the [MIT license](LICENSE-CODE). Read more at the
-[Open Source Initiative](https://opensource.org/licenses/MIT).
