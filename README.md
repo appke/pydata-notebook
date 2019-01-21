@@ -10,7 +10,7 @@
 机器学习和Python实战| 笔记博客 | 案例代码 
 :--|:--|:--
 **Python基础** | [JupyterLab总结](https://www.jianshu.com/p/5d5d0ef8f949) |
-**NumPy基础** |  |[01-numpy基础.ipynb](ch02-NumPy基础/01-numpy.ipynb)<br>[02-numpy运算.ipynb](ch02-NumPy基础/02-numpy运算.ipynb)<br>[03-numpy统计.ipynb](ch02-NumPy基础/03-numpy统计.ipynb)<br/>[04-numpy线代.ipynb](ch02-NumPy基础/04-numpy线代.ipynb)<br/>[05-numpy排序.ipynb](ch02-NumPy基础/05-numpy排序.ipynb)<br/>
+**NumPy基础** |  |[01-numpy基础.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch02-NumPy基础/01-numpy基础.ipynb)<br>[02-numpy运算.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch02-NumPy基础/02-numpy运算.ipynb)<br>[03-numpy统计.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch02-NumPy基础/03-numpy统计.ipynb)<br/>[04-numpy线代.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch02-NumPy基础/04-numpy线代.ipynb)<br/>[05-numpy排序.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch02-NumPy基础/05-numpy排序.ipynb)<br/>
 **Pandasの使用** | |
 **matplotlib可视化** | |
 **读取数据** | |
