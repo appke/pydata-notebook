@@ -16,7 +16,7 @@
 05|**读取数据** | |[01-读取csv文件.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch05-读取数据/01-读取csv文件.ipynb)<br/>[02-缺失值处理.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch05-读取数据/02-缺失值处理.ipynb)<br/>[03-分块读入文本文件.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch05-读取数据/03-分块读入文本文件.ipynb)<br/>[04-写入到文件.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch05-读取数据/04-写入到文件.ipynb)<br/>
 06|**数据清洗与准备** | |
 07| | |
-08|**matplotlib可视化** | |[01-matplotlib初体验.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch08-Matplotlib%E5%8F%AF%E8%A7%86%E5%8C%96/01-matplotlib%E5%88%9D%E4%BD%93%E9%AA%8C.ipynb)
+08|**Matplotlib可视化** | |[01-matplotlib初体验.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch08-Matplotlib%E5%8F%AF%E8%A7%86%E5%8C%96/01-matplotlib%E5%88%9D%E4%BD%93%E9%AA%8C.ipynb)
 09|**时间序列** | |
 13|**数据分析示例** | |
 14|**CheatSheet** | [Pandas CheatSheet](https://www.jianshu.com/p/ad3061ad78cc) |[kk01-Pandas CheatSheet](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk01-Pandas%20CheatSheet.ipynb)<br>[kk02-DataFrame的增删改查.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk02-DataFrame的增删改查.ipynb)<br>[kk03-DataFrame自带绘图](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk03-DataFrame自带绘图)<br/>[kk04-Pyplot-Seaborn.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk04-Pyplot-Seaborn.ipynb)<br/>[kk05-Seaborn绘图练习.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk05-Seaborn绘图练习.ipynb)<br/>
