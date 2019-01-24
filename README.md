@@ -14,7 +14,7 @@
 **Pandas入门** |  | [01-十分钟上手Pandas.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch03-Pandas入门/01-十分钟上手Pandas.ipynb)<br>[02-一维数据结构：Series.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch03-Pandas入门/02-一维数据结构：Series.ipynb)<br/>[03-二维数据结构：DataFrame.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch03-Pandas入门/03-二维数据结构：DataFrame.ipynb)<br/> 
 **Pandasの使用** | |
 **读取数据** | |[01-读取csv文件.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch05-读取数据/01-读取csv文件.ipynb)<br/>
-**matplotlib可视化** | |
+**matplotlib可视化** | |[01-matplotlib初体验.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/ch06-Matplotlib%E5%8F%AF%E8%A7%86%E5%8C%96/01-matplotlib%E5%88%9D%E4%BD%93%E9%AA%8C.ipynb)
 **时间序列** | |
 **数据分析示例** | |
 **CheatSheet** | [Pandas CheatSheet](https://www.jianshu.com/p/ad3061ad78cc) |[kk01-Pandas CheatSheet](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk01-Pandas%20CheatSheet.ipynb)<br>[kk02-DataFrame的增删改查.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk02-DataFrame的增删改查.ipynb)<br>[kk03-DataFrame自带绘图](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk03-DataFrame自带绘图)<br/>[kk04-Pyplot-Seaborn.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk04-Pyplot-Seaborn.ipynb)<br/>[kk05-Seaborn绘图练习.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk05-Seaborn绘图练习.ipynb)<br/>
