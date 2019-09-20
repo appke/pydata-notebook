@@ -21,8 +21,7 @@
 10|**时间序列** | |
 11|**数据分析示例** | |
 12|**CheatSheet** | [Pandas CheatSheet](https://www.jianshu.com/p/ad3061ad78cc) |[kk01-Pandas CheatSheet](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk01-Pandas%20CheatSheet.ipynb)<br>[kk02-DataFrame的增删改查.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk02-DataFrame的增删改查.ipynb)<br>[kk03-DataFrame自带绘图](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk03-DataFrame自带绘图)<br/>[kk04-Pyplot-Seaborn.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk04-Pyplot-Seaborn.ipynb)<br/>[kk05-披萨店顾客数据.ipynb](https://nbviewer.jupyter.org/github/appke/pydata-notebook/blob/master/chkk-CheatSheet/kk05-披萨店顾客数据.ipynb)<br/>
-
-
+13|**实战操作** | |1.统计职场数
 
 <br><br><br>
 
